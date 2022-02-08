@@ -1,5 +1,7 @@
 # Ejercicio-Clase-01
 
+![imagen](img/Elinstituto.png)
+
 ## Enunciado🌺
 Tenemos un instituto en el que hay **10 aulas**, cada aula tendrá un total de **15 alumnos** de los que se deberá saber su *nombre*, *apellido* y *edad* para ello deberemos crearlos de manera **aleatoria**.
 
