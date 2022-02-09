@@ -5,6 +5,8 @@
 ## Enunciado🌺
 Tenemos un instituto en el que hay **10 aulas**, cada aula tendrá un total de **15 alumnos** de los que se deberá saber su *nombre*, *apellido* y *edad* para ello deberemos crearlos de manera **aleatoria**.
 
+Se tiene que realizar con **ArrayList**
+
 Dependiendo de un porcentaje serán 60% alumnas y 40% alumnos. 
 
 Dependiendo de si es alumno o alumna
